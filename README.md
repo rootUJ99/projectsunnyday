@@ -1,6 +1,5 @@
 # projectsunnyday
-configure database
-in .env add 
+configure database add following details in .env 
 ```sh
 DB_NAME = <your-db-name>
 DB_USER = <your-db-user>
@@ -15,14 +14,14 @@ install packages
 ```sh 
 $ npm install
 ````
-start frontend
-
-```sh 
-$ npm run client
-````
 
 start backend
 
 ```sh 
 $ npm run server
+````
+start frontend
+
+```sh 
+$ npm run client
 ````
