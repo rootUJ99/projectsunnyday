@@ -7,7 +7,7 @@ DB_PASSWORD = <your-db-password>
 DB_HOST = <your-db-hostname>
 ```
 
-frontend is in react and backend is in express under the same package.json
+frontend is in react and backend is in express
 
 install packages
 
