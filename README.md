@@ -15,7 +15,7 @@ install packages
 ```sh 
 $ npm install
 ````
-start forntend
+start frontend
 
 ```sh 
 $ npm run client
