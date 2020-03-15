@@ -1,2 +1,20 @@
+.container {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
 
+.card {
+  background-color: #ffffff;
+  padding: 2rem;
+  width: 60%;
+  margin: auto;
+  border-radius: 3px;
+  box-shadow: 36px 24px 76px -9px rgba(0,0,0,0.51);
+}
 
+.flex-container {
+  display: flex;
+  justify-content: space-evenly;
+  padding-bottom: 5rem;
+}
