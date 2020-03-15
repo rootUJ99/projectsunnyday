@@ -1,5 +1,5 @@
 # projectsunnyday
-configure database add following details in .env 
+configure database by adding these details in .env 
 ```sh
 DB_NAME = <your-db-name>
 DB_USER = <your-db-user>
